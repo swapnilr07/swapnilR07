@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swapnil Rathod
 
-🎓 Bachelor of Science (BSc) in Computer Science (Software Engineering)  
+🎓 (BSc) in Computer Science (Software Engineering)  
 🏫 Savitribai Phule Pune University – Second Year  
 🏢 Former Junior Associate at Royal Solution (2023–2025)  
 💻 Software Developer | Web & Mobile App Enthusiast | IoT & Embedded  
@@ -89,7 +89,7 @@ To secure an internship or entry-level role where I can apply my software, web, 
 ## 📫 Contact Information
 - 📧 Email: hsr7003@gmail.com  
 - 📍 Location: Pune, India  
-- 🌐 Portfolio Website: https://swapnilr07.github.io  
+- 🌐 Portfolio Website: [https://swapnilr07.github.io](https://github.com/swapnilr07/)  
 
 ---
 
