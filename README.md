@@ -3,16 +3,16 @@
 🎓 Bachelor of Science (BSc) in Computer Science (Software Engineering)  
 🏫 Savitribai Phule Pune University – Second Year  
 🏢 Former Junior Associate at Royal Solution (2023–2025)  
-💻 Web Developer | Programmer | IoT & Embedded Enthusiast  
+💻 Software Developer | Web & Mobile App Enthusiast | IoT & Embedded  
 
 ---
 
 ## 🧑‍💻 About Me
-I am a Computer Science undergraduate specializing in Software Engineering with practical experience in programming, web development, database management, and embedded systems.  
-I have hands-on knowledge of **C, C++, JavaScript, SQL, basic PHP**, and **embedded development using Microchip Studio**.  
-I enjoy building real-world, problem-solving applications such as web dashboards, chat systems, admin panels, and microcontroller-based projects.
+I am a Computer Science undergraduate specializing in Software Engineering with practical experience in **software development, web applications, mobile applications, databases, and embedded systems**.  
+I have hands-on knowledge of **C, C++, JavaScript, SQL, basic PHP**, and experience developing **web-based and Android mobile applications**.
 
-Currently, I am strengthening my backend development, database concepts, and embedded programming skills through academic and practical projects.
+I enjoy building real-world, problem-solving solutions such as **web dashboards, mobile apps, chat systems, admin panels, and microcontroller-based projects**.  
+Currently, I am improving my backend development, Android application fundamentals, and embedded programming skills.
 
 ---
 
@@ -25,30 +25,43 @@ Currently, I am strengthening my backend development, database concepts, and emb
 - SQL  
 - PHP (Basic)
 
-### 🌐 Web Technologies
-- HTML5  
-- CSS3  
+### 🌐 Web Application Development
+- HTML5, CSS3  
+- JavaScript-based Web Applications  
 - Responsive Web Design  
 - Basic Animations  
+
+### 📱 Mobile Application Development
+- Android Application Development (Basics)  
+- UI Design & Activity Lifecycle (Basic)  
 
 ### 🧰 Tools & Software
 - Git & GitHub  
 - Visual Studio Code  
-- **Microchip Studio (AVR / Embedded Development)**  
-- Microsoft Office (Word, Excel, PowerPoint)  
+- Microchip Studio (AVR / Embedded Development)  
+- Microsoft Office (Word, Excel, PowerPoint)
 
 ### 📘 Concepts & Knowledge
 - Data Structures (Basics)  
 - Database Management Systems (SQL)  
-- Agile & Waterfall Methodologies (Basics)  
+- Agile & Waterfall Methodologies (Basics)
 
 ### 📡 IoT & Embedded Systems
 - ESP8266 (Web-based IoT Projects)  
-- AVR Microcontroller Programming (Microchip Studio)
+- AVR Microcontroller Programming using Microchip Studio
 
 ---
 
 ## 🚀 Projects
+
+### 🔹 Web Applications
+- Responsive portfolio website  
+- Admin panel dashboards  
+- JavaScript-based mini web apps  
+
+### 🔹 Mobile Applications (Android)
+- Basic Android apps (UI & functionality based)  
+- Form-based and utility applications  
 
 ### 🔹 ESP8266 WiFi Chatroom
 - Real-time browser-based chat application  
@@ -56,16 +69,10 @@ Currently, I am strengthening my backend development, database concepts, and emb
 - Mode switching system  
 - Technologies: ESP8266, HTML, CSS, JavaScript  
 
-### 🔹 JavaScript Mini Projects
-- Calculator  
-- To-Do List  
-- Form Validation  
-
-### 🔹 Embedded & Programming Practice
-- AVR microcontroller programs using Microchip Studio  
-- C & C++ programs (basic to intermediate)  
-- SQL queries & database practice  
-- Basic PHP CRUD examples  
+### 🔹 Programming & Practice
+- C and C++ programs  
+- SQL database queries and practice  
+- Basic PHP CRUD applications  
 
 ---
 
@@ -75,7 +82,7 @@ Currently, I am strengthening my backend development, database concepts, and emb
 ---
 
 ## 🎯 Career Objective
-To secure an internship or entry-level position where I can apply my software development and embedded programming skills, gain real-world experience, and grow as a software engineer.
+To secure an internship or entry-level role where I can apply my software, web, mobile application, and embedded system skills while gaining real-world industry experience.
 
 ---
 
