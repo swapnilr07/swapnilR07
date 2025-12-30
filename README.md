@@ -78,7 +78,7 @@ Currently, I am improving my backend development, Android application fundamenta
 
 ## 📊 GitHub Statistics
 
-![Swapnil's GitHub Stats](https://streak-stats.demolab.com?user=swapnilr07&theme=github-dark)
+[![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=swapnilr07)](https://github.com/swapnilr07/github-readme-stats)
 ---
 
 ## 🎯 Career Objective
