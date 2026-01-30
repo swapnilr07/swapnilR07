@@ -23,7 +23,8 @@ Currently, I am improving my backend development, Android application fundamenta
 - C++  
 - JavaScript  
 - SQL  
-- PHP (Basic)
+- PHP 
+- PYTHON 
 
 ### 🌐 Web Application Development
 - HTML5, CSS3  
