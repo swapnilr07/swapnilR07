@@ -2,14 +2,14 @@
 
 🎓 (BSc) in Computer Science (Software Engineering)  
 🏫 Savitribai Phule Pune University – Second Year  
-🏢 Former Junior Associate at Royal Solution (2023–2025)  
+🏢 Former Junior Associate at _____________ (2022–2025)  
 💻 Software Developer | Web & Mobile App Enthusiast | IoT & Embedded  
 
 ---
 
 ## 🧑‍💻 About Me
 I am a Computer Science undergraduate specializing in Software Engineering with practical experience in **software development, web applications, mobile applications, databases, and embedded systems**.  
-I have hands-on knowledge of **C, C++, JavaScript, SQL, basic PHP**, and experience developing **web-based and Android mobile applications**.
+I have hands-on knowledge of **C, C++, JavaScript, SQL, PHP, Python, flutter,**, and experience developing **web-based and  Android/Ios(apple) mobile applications**.
 
 I enjoy building real-world, problem-solving solutions such as **web dashboards, mobile apps, chat systems, admin panels, and microcontroller-based projects**.  
 Currently, I am improving my backend development, Android application fundamentals, and embedded programming skills.
@@ -24,7 +24,8 @@ Currently, I am improving my backend development, Android application fundamenta
 - JavaScript  
 - SQL  
 - PHP 
-- PYTHON 
+- PYTHON
+- FLUTTER
 
 ### 🌐 Web Application Development
 - HTML5, CSS3  
